@@ -3,7 +3,7 @@ AREYES
 <br/>
 Back-End Developer Assessment
 <br/>
-Run the EF Migrations
+Run the EF Migrations to create Database and Tables
 <br/>
 <br/>
 From the command line, navigate to the Data project directory and run the following commands to create the database and tables:

@@ -12,3 +12,6 @@ dotnet ef migrations add InitialCreate --startup-project ../AreyesAssessment.Api
 <br/>
 <br/>
 dotnet ef database update --startup-project ../AreyesAssessment.Api
+
+
+![image](https://github.com/user-attachments/assets/1acbadeb-a95e-44dd-a466-34545e553559)
